@@ -12,6 +12,20 @@
 
 - 👨‍💻 More at [Maycon Queiroz](https://www.linkedin.com/in/maycon-queiroz-56572014a/)
 
+<br><br>
+
+## Contact
+
+<p align="left">
+
+<a href="https://linkedin.com/in/maycon-queiroz-56572014a/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maycon-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/pjmpmaycon" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maycon-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 <!--
 **maycon-queiroz/maycon-queiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
