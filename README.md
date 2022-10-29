@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Madeinweb e Mobile](https://www.linkedin.com/company/madeinweb-mobile/mycompany/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, PHP, WordPress**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Typescript, PHP, WordPress**
 
 - ⚡ Fun fact **Oneye 😜**
 
