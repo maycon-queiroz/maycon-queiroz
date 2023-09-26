@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Web Developer & found helping people start programming
 
-- 🔭 I’m currently working at [Madeinweb e Mobile](https://www.linkedin.com/company/madeinweb-mobile/mycompany/)
+- 🔭 I’m currently working at [Luby software]([https://luby.com.br/])
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Typescript, PHP, WordPress**
 
