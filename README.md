@@ -4,7 +4,7 @@
 
 - 🔥 Sênior Web Developer & found helping people start programming
 
-- 🔭 I’m currently working at [Luby software]([https://luby.com.br/])
+- 🔭 I’m currently working at [Luby software](https://luby.com.br/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Typescript, PHP, WordPress**
 
